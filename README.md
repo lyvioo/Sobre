@@ -1,6 +1,6 @@
 Olá, sou o Romulo Lyvio
 <br> 🔥 Sou novo na área de programação e estou em busca de aprendizado
-<br> 🎖️Futuro programdor Front-End
+<br> 🎖️Programador Junio Node.js 
 <div align="center">
   <a href="https://github.com/lyvioo">
   
