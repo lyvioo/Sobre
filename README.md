@@ -1,17 +1,20 @@
 Olá, sou o Romulo Lyvio
-<br> 🔥 Sou novo na área de programação e estou em busca de aprendizado
-<br> 🎖️Programador Junior Node.js 
+<br>🔥 Sou novo na área de programação e estou em busca de aprendizado
+<br>🎖️ Programador Júnior Node.js 
+<br>💥 Banco de Dados SQL
 <div align="center">
   <a href="https://github.com/lyvioo">
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://www.webcuits.com/images/lang/nodejs_logo.png">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://clipground.com/images/sql-logo-clipart.jpg">
+  <img align="center" alt="Mongo" height="30" width="40" src="https://th.bing.com/th/id/OIP.4y0O4Ytk5MArYDVEKMahLQHaHa?pid=ImgDet&rs=1">
+  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   
 </div>
   
