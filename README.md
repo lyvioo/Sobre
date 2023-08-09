@@ -1,6 +1,6 @@
 Olá, sou o Romulo Lyvio
 <br>🔥 Sou novo na área de programação e estou em busca de aprendizado
-<br>🎖️ Programador Júnior Node.js 
+<br>🎖️ Programador Node.js 
 <br>💥 Banco de Dados SQL
 <div align="center">
   <a href="https://github.com/lyvioo">
