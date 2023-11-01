@@ -1,5 +1,5 @@
 Olá, sou o Romulo Lyvio
-<br>🔥 Sou novo na área de programação e estou em busca de aprendizado
+<br>🔥 Sou desenvolvedor backend em busca de desafios.
 <br>🎖️ Programador Node.js 
 <br>💥 Banco de Dados SQL
 <div align="center">
