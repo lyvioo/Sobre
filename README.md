@@ -1,7 +1,7 @@
 Olá, sou o Romulo Lyvio
 <br>🔥 Sou desenvolvedor backend em busca de desafios.
 <br>🎖️ Programador Node.js 
-<br>💥 Banco de Dados SQL
+<br>💥 Banco de Dados MongoDB
 <div align="center">
   <a href="https://github.com/lyvioo">
   
